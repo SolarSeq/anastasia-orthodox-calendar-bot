@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+*.backup*
+docker-compose.yml.before-host-network
+*.log
+.DS_Store
