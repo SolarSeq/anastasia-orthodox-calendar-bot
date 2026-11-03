@@ -2,6 +2,8 @@
 
 Anastasia is a Python Discord bot that retrieves Eastern Orthodox calendar information and automatically posts a daily summary to configured Discord channels.
 
+![Anastasia posting the daily Orthodox calendar in Discord](Anastasia-Discord-Example.png)
+
 The bot is deployed as an always-on Docker Compose service and currently posts at 3:00 AM America/New_York.
 
 ## Features
